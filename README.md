@@ -20,7 +20,7 @@
 git clone git@github.com:dooomit/meghna-hugo.git
 
 # cd in the project directory
-$ cd meghna-hugo/exampleSite/
+$ cd meghna-hugo/website/
 
 # Start local dev server
 $ hugo server --themesDir ../..
@@ -52,46 +52,46 @@ Follow the steps.
 #### Banner
 The banner section is the topmost element of the website.
 It consists out of a background image, a slogan and a button.
-The banner section can be edited in the [banner.yml](exampleSite/data/de/banner.yml) file.
+The banner section can be edited in the [banner.yml](website/data/de/banner.yml) file.
 
 #### About
 The about section is right below the banner section of the website.
 It contains a list of cards.
 Each card contains a icon from the [icon pack](https://themify.me/themify-icons), a title and a text.
-The about section can be edited in the [about.yml](exampleSite/data/de/about.yml) file.
+The about section can be edited in the [about.yml](website/data/de/about.yml) file.
 
 #### Feature
 The feature section contains a image and a list of features the enterprise provides.
-The image and the list of features can be edited in the [feature.yml](exampleSite/data/de/feature.yml) file.
+The image and the list of features can be edited in the [feature.yml](website/data/de/feature.yml) file.
 
 #### CTA
 The cta section contains a background image a text and a button.
-The cta can be edited in the [feature.yml](exampleSite/data/de/cta.yml) file.
+The cta can be edited in the [feature.yml](website/data/de/cta.yml) file.
 
 #### Services
 The services section contains a list of services.
-The services section can be edited in the [feature.yml](exampleSite/data/de/service.yml) file.
+The services section can be edited in the [feature.yml](website/data/de/service.yml) file.
 
 #### Skills
 The skills section contains a text and a list of skills.
-The skills section can be edited in the [feature.yml](exampleSite/data/de/skill.yml) file.
+The skills section can be edited in the [feature.yml](website/data/de/skill.yml) file.
 
 #### Portfolio
 The portfolio section contains a list of items / products.
-The portfolio section can be edited in the [feature.yml](exampleSite/data/de/portfolio.yml) file.
+The portfolio section can be edited in the [feature.yml](website/data/de/portfolio.yml) file.
 
 #### Funfacts
 The funfacts section contains a list of items.
-The funfacts section can be edited in the [feature.yml](exampleSite/data/de/funfacts.yml) file.
+The funfacts section can be edited in the [feature.yml](website/data/de/funfacts.yml) file.
 
 #### Team
 The team section contains a list of team members.
-The team section can be edited in the [feature.yml](exampleSite/data/de/funfacts.yml) file.
+The team section can be edited in the [feature.yml](website/data/de/funfacts.yml) file.
 
 #### Testimonials
 The funfacts section contains a list of items.
-The funfacts section can be edited in the [feature.yml](exampleSite/data/de/funfacts.yml) file.
+The funfacts section can be edited in the [feature.yml](website/data/de/funfacts.yml) file.
 
 #### Contact
 The contact section contains a contact form.
-The contact section can be edited in the [feature.yml](exampleSite/data/de/contact.yml) file.
+The contact section can be edited in the [feature.yml](website/data/de/contact.yml) file.
