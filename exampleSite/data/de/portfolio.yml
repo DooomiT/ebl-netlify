@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Unsere Projekte
   portfolio_item :
     # portfolio item loop
     - name : Tag Design

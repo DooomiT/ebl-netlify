@@ -1,19 +1,19 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Letzter Post
 - id: readMore
-  translation: Read more
+  translation: Mehr lesen
 - id: viewAllPost
-  translation: View All Post
+  translation: Alle Posts anzeigen
 - id: share
   translation: Share
 - id: aboutAuthor
-  translation: About author
+  translation: Über den Autor
 - id: authorsPosts
-  translation: Author's posts
+  translation: Weitere Posts des Autors
 - id: all
-  translation: All
+  translation: Alle
 - id: about
-  translation: About Us
+  translation: Über uns
 - id: services
   translation: Service
 - id: portfolio
@@ -23,4 +23,4 @@
 - id: blog
   translation: Blog
 - id: contact
-  translation: Contact
+  translation: Kontakts

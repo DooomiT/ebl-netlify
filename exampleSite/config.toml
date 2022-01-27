@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "EBL"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -62,11 +62,6 @@ url = "#team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-
-[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
@@ -76,77 +71,43 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-
-[[Languages.en.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
-
-
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
+################### German Navigation ########################
+[[Languages.de.menu.main]]
+name = "Über Uns"
 url = "#about"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "un service"
+[[Languages.de.menu.main]]
+name = "Dienstleistungen"
 url = "#services"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "portefeuille"
+[[Languages.de.menu.main]]
+name = "Portfolio"
 url = "#portfolio"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "équipe"
+[[Languages.de.menu.main]]
+name = "Team"
 url = "#team"
 weight = 4
 
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "blog"
+[[Languages.de.menu.main]]
+name = "Blog"
 url = "#blog"
 weight = 6
 
-[[Languages.fr.menu.main]]
-name = "contact"
+[[Languages.de.menu.main]]
+name = "Kontakt"
 url = "#contact"
 weight = 7
-
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "ebl hugo"
+author = "Florian Bufler"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -203,13 +164,13 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022 Designed & Developed by Florian Bufler"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+################################ German Language ########################
+[Languages.de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/deutsch"
 weight = 2
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "Startseite"
+copyright = "Copyright &copy; 2022 Entwickelt und Designed von Florian Bufler"

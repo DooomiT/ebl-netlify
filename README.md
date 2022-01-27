@@ -1,31 +1,5 @@
-<h1 align=center>Meghna Hugo Theme | <a target="_blank" href="https://demo.gethugothemes.com/meghna" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fmeghna%2F">Page Speed (80%)</a></h1>
+# Documentation
 
-<p align=center>
-  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.84.0" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.84.0&color=f00&logo=hugo" />
-  </a>
-
-  <a href="https://github.com/themefisher/meghna-hugo/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/themefisher/meghna-hugo" alt="license"></a>
-
-  <img src="https://img.shields.io/github/languages/code-size/themefisher/meghna-hugo" alt="code size">
-
-  <a href="https://github.com/themefisher/meghna-hugo/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/themefisher/meghna-hugo" alt="contributors"></a>
-
-  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
-    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
-      alt="follow on Twitter"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37659754/54068559-44d79a80-4278-11e9-9601-f58d6879989c.gif"
-    alt="screenshot" width="100%">
-</p>
-
----
 ## Features
 - Multilingual support. (with language selector)
 - Taxonomies
@@ -43,7 +17,7 @@
 
 ```bash
 # clone the repository
-git clone git@github.com:themefisher/meghna-hugo.git
+git clone git@github.com:dooomit/meghna-hugo.git
 
 # cd in the project directory
 $ cd meghna-hugo/exampleSite/
@@ -71,62 +45,53 @@ Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com
 
 Follow the steps.
 
-## Prefer a video? (Hugo + Netlify + Forestry)
-Build your website with **Meghna Hugo** theme by following these easy steps (No Coding Required!)
-[Video Tutorial](https://youtu.be/ResipmZmpDU).
+## Editing
 
-<!-- reporting issue -->
-## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing
-issues](https://github.com/themefisher/meghna-hugo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/themefisher/meghna-hugo/issues).
+### Website
 
-## Meghna Hugo theme Powered Websites
-- https://thetechbattalion.com/
-- https://adaptechgroup.com/
-- https://adenuz.com/
-- https://junior-aei.com/
-- https://akademiainformatyki.edu.pl/
-- https://naval-engineering.com/
-- https://www.istrosec.com/
-- https://www.puylevequepatrimoine.com/
-- https://www.beltlabs.com/
-- https://cloud-fundis.co.za
-- https://www.cocoon-arolla.com
-- https://www.plurisante202.fr
+#### Banner
+The banner section is the topmost element of the website.
+It consists out of a background image, a slogan and a button.
+The banner section can be edited in the [banner.yml](exampleSite/data/de/banner.yml) file.
 
-View all the websites powered by Meghna Hugo theme [here](https://github.com/themefisher/meghna-hugo/wiki/Popular-sites-powered-by-Meghna-Hugo). Want to submit your own website powered by Meghna Hugo theme? You can submit it [here](https://github.com/themefisher/meghna-hugo/discussions/174).
+#### About
+The about section is right below the banner section of the website.
+It contains a list of cards.
+Each card contains a icon from the [icon pack](https://themify.me/themify-icons), a title and a text.
+The about section can be edited in the [about.yml](exampleSite/data/de/about.yml) file.
 
-<!-- licence -->
-## License
-Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
-[Gethugothemes](https://gethugothemes.com)
+#### Feature
+The feature section contains a image and a list of features the enterprise provides.
+The image and the list of features can be edited in the [feature.yml](exampleSite/data/de/feature.yml) file.
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/meghna-hugo/blob/master/LICENSE) license.
+#### CTA
+The cta section contains a background image a text and a button.
+The cta can be edited in the [feature.yml](exampleSite/data/de/cta.yml) file.
 
-**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
-share those images.
+#### Services
+The services section contains a list of services.
+The services section can be edited in the [feature.yml](exampleSite/data/de/service.yml) file.
 
-<!-- resources -->
-## Special Thanks
-- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-- [Jquery](https://jquery.com/download/)
-- [Themify Icons](https://themify.me/themify-icons)
-- [Lozad](https://apoorv.pro/lozad.js/)
-- [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/)
-- [Slick Slider](https://kenwheeler.github.io/slick/)
-- [Shuffle](https://vestride.github.io/Shuffle/)
-- [Google Fonts](http://fonts.google.com/)
-- [All Contributors](https://github.com/themefisher/meghna-hugo/graphs/contributors)
+#### Skills
+The skills section contains a text and a list of skills.
+The skills section can be edited in the [feature.yml](exampleSite/data/de/skill.yml) file.
 
+#### Portfolio
+The portfolio section contains a list of items / products.
+The portfolio section can be edited in the [feature.yml](exampleSite/data/de/portfolio.yml) file.
 
-## Hire Us
-We are available for **Hiring** for your next HUGO project. Please, check our
-[services](https://cutt.ly/ght-service)
+#### Funfacts
+The funfacts section contains a list of items.
+The funfacts section can be edited in the [feature.yml](exampleSite/data/de/funfacts.yml) file.
 
-<!-- premium themes -->
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Reader](https://demo.gethugothemes.com/thumbnails/reader.webp)](https://gethugothemes.com/products/reader/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.webp)](https://gethugothemes.com/products/bizcraft-hugo/) |
-|:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Reader** | **Bizcraft** |
+#### Team
+The team section contains a list of team members.
+The team section can be edited in the [feature.yml](exampleSite/data/de/funfacts.yml) file.
+
+#### Testimonials
+The funfacts section contains a list of items.
+The funfacts section can be edited in the [feature.yml](exampleSite/data/de/funfacts.yml) file.
+
+#### Contact
+The contact section contains a contact form.
+The contact section can be edited in the [feature.yml](exampleSite/data/de/contact.yml) file.
