@@ -41,7 +41,7 @@ Any changes you make in Forestry will be committed back to the repo and deployed
 ## Deployment and hosting
 
 [![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themefisher/meghna-hugo)
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dooomit/ebl)
 
 Follow the steps.
 
