@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://website.com"
-title = "EBL"
+title = "Embedded Logic"
 theme = "ebl"
 # post pagination
 paginate = "6"

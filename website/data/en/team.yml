@@ -5,16 +5,10 @@ team:
   team_member :
     # team member loop
     - name : Andreas Bufler
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+      image_webp : images/team/team-img.webp
+      image : images/team/team-img.jpg
       designation : CEO/Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
