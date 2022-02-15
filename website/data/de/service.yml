@@ -6,19 +6,19 @@ service:
     # service item loop
     - name : Projektmanagement
       icon : ti-clipboard # themify icon pack : https://themify.me/themify-icons
-      content : We offer you different project management services to lead your products on the most effective way to get your products ready for production!
+      content : Wir bieten Ihnen verschiedene Projektmanagement-Dienstleistungen, um Ihre Produkte auf dem effektivsten Weg zur Produktionsreife zu führen!
       
     # service item loop
     - name : Hardwareentwicklung
       icon :  ti-settings # themify icon pack : https://themify.me/themify-icons
-      content : To support your product developers or outsource the entire hardware development we offer our manpower!
+      content : Zur Unterstützung Ihrer Produktentwickler oder zur Auslagerung der gesamten Hardware-Entwicklung bieten wir Ihnen unsere Manpower!
       
     # service item loop
     - name : Softwareentwicklung
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : With our expertise in embedded software development, we take over cost- and time-intensive steps of the software lifecycle and deliver superior results.
+      content : Mit unserer Expertise in der Entwicklung eingebetteter Software übernehmen wir kosten- und zeitintensive Schritte des Software-Lebenszyklus und liefern hervorragende Ergebnisse.
       
     # service item loop
     - name : Hardware Dienstleistung
       icon : ti-harddrive # themify icon pack : https://themify.me/themify-icons
-      content : We lend various measuring and testing equipment to reduce your expenses
+      content : Wir verleihen verschiedene Mess- und Prüfgeräte, um Ihre Kosten zu senken

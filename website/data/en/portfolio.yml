@@ -1,13 +1,13 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Our Works and Products
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Oscilloscope
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["management"]
+      categories : ["Products"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://themefisher.com"
       
@@ -15,7 +15,7 @@ portfolio:
     - name : Sound system
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
+      categories : ["Development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
@@ -23,6 +23,6 @@ portfolio:
     - name : Clock Product
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["management", "development"]
+      categories : ["Management", "Development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
