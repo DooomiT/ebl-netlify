@@ -22,3 +22,8 @@ service:
     - name : Hardware Dienstleistung
       icon : ti-harddrive # themify icon pack : https://themify.me/themify-icons
       content : Wir verleihen verschiedene Mess- und Prüfgeräte, um Ihre Kosten zu senken
+
+       # service item loop
+    - name : Hardware Software Dienstleistung
+      icon : ti-save-alt # themify icon pack : https://themify.me/themify-icons
+      content : Wir verleihen verschiedene Mess- und Prüfgeräte, um Ihre Kosten zu senken
